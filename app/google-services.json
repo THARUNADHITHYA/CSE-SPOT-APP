@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876434809926",
+    "project_id": "csespot-a1e58",
+    "storage_bucket": "csespot-a1e58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876434809926:android:6d3c0074f7086943041647",
+        "android_client_info": {
+          "package_name": "com.example.firebaseapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876434809926-8lr5dtd1rcojer6eq3mhu36hd4dtg2b6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrflNlYXUbwRpUsfv3y6RczOUOSwcFb_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876434809926-8lr5dtd1rcojer6eq3mhu36hd4dtg2b6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
